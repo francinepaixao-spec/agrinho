@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(253, 214, 250, 0.868);
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    height: 700px;
+    margin: 0; 
+}
